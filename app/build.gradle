@@ -11,11 +11,11 @@ plugins {
 apply plugin: 'kotlin-kapt'
 
 android {
-    namespace 'com.example.fawr_assignment'
+    namespace 'com.example.InstaGlimpse'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.fawr_assignment"
+        applicationId "com.example.InstaGlimpse"
         minSdk 21
         targetSdk 33
         versionCode 1

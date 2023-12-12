@@ -14,5 +14,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Fawr Assignment"
+rootProject.name = "InstaGlimpse"
 include ':app'
